@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions points="1">
+	<question value="BSymbol chemiczny palladu to:">
+		<answer value="Pd" is_good ="1"></answer>
+		<answer value="Jp" is_good ="0"></answer>
+		<answer value="C"  is_good ="0"></answer>
+		<answer value="O"  is_good ="0"></answer>
+	</question>
+	<question value="BJaki symbol chemiczny ma jod:">
+		<answer value="I"  is_good ="1"></answer>
+		<answer value="Jp" is_good ="0"></answer>
+		<answer value="Pd" is_good ="0"></answer>
+		<answer value="O"  is_good ="0"></answer>
+	</question>
+	<question value="BIle pierwiastków zaliczamy do tzw. pierwiastków biogennych?">
+		<answer value="6"		  is_good ="1"></answer>
+		<answer value="12"		  is_good ="0"></answer>
+		<answer value="Wszystkie" is_good ="0"></answer>
+		<answer value="0"         is_good ="0"></answer>
+	</question>
+  <question value="B2Symbol chemiczny palladu to:">
+		<answer value="Pd" is_good ="1"></answer>
+		<answer value="Jp" is_good ="0"></answer>
+		<answer value="C"  is_good ="0"></answer>
+		<answer value="O"  is_good ="0"></answer>
+	</question>
+	<question value="B2Jaki symbol chemiczny ma jod:">
+		<answer value="I"  is_good ="1"></answer>
+		<answer value="Jp" is_good ="0"></answer>
+		<answer value="Pd" is_good ="0"></answer>
+		<answer value="O"  is_good ="0"></answer>
+	</question>
+	<question value="B2Ile pierwiastków zaliczamy do tzw. pierwiastków biogennych?">
+		<answer value="6"		  is_good ="1"></answer>
+		<answer value="12"	      is_good ="0"></answer>
+		<answer value="Wszystkie" is_good ="0"></answer>
+		<answer value="0"         is_good ="0"></answer>
+	</question>
+</questions>

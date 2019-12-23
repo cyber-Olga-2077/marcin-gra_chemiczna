@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <amount value="5"></amount> <!--Ile pytań z każdego pliku-->
+  <files>
+    <file name="cechy_a.xml"></file>
+    <file name="cechy_b.xml"></file>
+  </files>
+</config>
