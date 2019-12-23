@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marcin-gra_chemiczna", "marcin-gra_chemiczna.csproj", "{BB2358D0-876B-45A5-9269-033F34506ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2358D0-876B-45A5-9269-033F34506ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2358D0-876B-45A5-9269-033F34506ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2358D0-876B-45A5-9269-033F34506ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2358D0-876B-45A5-9269-033F34506ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01D46AA0-C8F4-4B22-9332-86A089959705}
+	EndGlobalSection
+EndGlobal
