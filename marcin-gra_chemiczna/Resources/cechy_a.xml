@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <questions points="1">
 	<question value="Symbol chemiczny palladu to:">
-		<answer value="Pd" is_good ="1"></answer>
-		<answer value="Jp" is_good ="0"></answer>
-		<answer value="C"  is_good ="0"></answer>
-		<answer value="O"  is_good ="0"></answer>
+		<answer value="Pd" is_good ="true"></answer>
+		<answer value="Jp" is_good ="false"></answer>
+		<answer value="C"  is_good ="false"></answer>
+		<answer value="O"  is_good ="false"></answer>
 	</question>
 	<question value="Jaki symbol chemiczny ma jod:">
-		<answer value="I"  is_good ="1"></answer>
-		<answer value="Jp" is_good ="0"></answer>
-		<answer value="Pd" is_good ="0"></answer>
-		<answer value="O"  is_good ="0"></answer>
+		<answer value="I"  is_good ="true"></answer>
+		<answer value="Jp" is_good ="false"></answer>
+		<answer value="Pd" is_good ="false"></answer>
+		<answer value="O"  is_good ="false"></answer>
 	</question>
 	<question value="Ile pierwiastków zaliczamy do tzw. pierwiastków biogennych?">
-		<answer value="6"			    is_good ="1"></answer>
-		<answer value="12"			  is_good ="0"></answer>
-		<answer value="Wszystkie" is_good ="0"></answer>
-		<answer value="0"         is_good ="0"></answer>
+		<answer value="6"			    is_good ="true"></answer>
+		<answer value="12"			  is_good ="false"></answer>
+		<answer value="Wszystkie" is_good ="false"></answer>
+		<answer value="0"         is_good ="false"></answer>
 	</question>
   <question value="2Symbol chemiczny palladu to:">
-		<answer value="Pd" is_good ="1"></answer>
-		<answer value="Jp" is_good ="0"></answer>
-		<answer value="C"  is_good ="0"></answer>
-		<answer value="O"  is_good ="0"></answer>
+		<answer value="Pd" is_good ="true"></answer>
+		<answer value="Jp" is_good ="false"></answer>
+		<answer value="C"  is_good ="false"></answer>
+		<answer value="O"  is_good ="false"></answer>
 	</question>
 	<question value="2Jaki symbol chemiczny ma jod:">
-		<answer value="I"  is_good ="1"></answer>
-		<answer value="Jp" is_good ="0"></answer>
-		<answer value="Pd" is_good ="0"></answer>
-		<answer value="O"  is_good ="0"></answer>
+		<answer value="I"  is_good ="true"></answer>
+		<answer value="Jp" is_good ="false"></answer>
+		<answer value="Pd" is_good ="false"></answer>
+		<answer value="O"  is_good ="false"></answer>
 	</question>
 	<question value="2Ile pierwiastków zaliczamy do tzw. pierwiastków biogennych?">
-		<answer value="6"			    is_good ="1"></answer>
-		<answer value="12"			  is_good ="0"></answer>
-		<answer value="Wszystkie" is_good ="0"></answer>
-		<answer value="0"         is_good ="0"></answer>
+		<answer value="6"			    is_good ="true"></answer>
+		<answer value="12"			  is_good ="false"></answer>
+		<answer value="Wszystkie" is_good ="false"></answer>
+		<answer value="0"         is_good ="false"></answer>
 	</question>
 </questions>
